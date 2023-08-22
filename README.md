@@ -1,4 +1,4 @@
-#Snake-pass
+# Snake-pass
 It is a game that was created using the basic concept of javascript, CSS, and HTML.
 
 The JavaScript snake game is developed and explained in a step-by-step manner. The steps include:-
